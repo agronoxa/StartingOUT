@@ -5,7 +5,9 @@ using namespace std;
 
 int main(){
 
-  cout<<"Test"<<endl;
+  for(int i=0; i<=5; i++){
+    cout<<"bora hoxha"<<endl;
+  }
 
   return 0;
 }
