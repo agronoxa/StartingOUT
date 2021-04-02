@@ -19,17 +19,6 @@ cout<<"SUCCESS: pin1 and pin2 are reported to be the same.\n";
 cout<<"ERROR: pin1 and pin2 are reported to be the different.\n";
 }
 
-// if(testPIN(pin1,pin1, NUM_DIGITS))
-// cout<<"SUCCESS: pin1 and pin1 are reported to be the same.\n";
-// else
-// cout<<"ERROR: pin1 and pin2 are reported to be the different.\n";
-//
-// if(testPIN(pin1,pin3, NUM_DIGITS))
-// cout<<"SUCCESS: pin1 and pin2 are reported to be the same.\n";
-// else
-// cout<<"ERROR: pin1 and pin2 are reported to be the different.\n";
-//
-
 return 0;
 }
 
